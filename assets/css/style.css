@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/*this changes the background color*/
 body {
     background-color: #d9dcd6;
 }
 
+/*gives us the format for the header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,6 +17,7 @@ body {
     color: #ffffff;
 }
 
+/*Font size and display for Horiseon*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -24,6 +27,7 @@ body {
     color: #d9dcd6;
 }
 
+/*format for the nav bar*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -46,10 +50,12 @@ a {
     text-decoration: none;
 }
 
+/*font size for paragraphs*/
 p {
     font-size: 16px;
 }
 
+/*format for the three sections under the header*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,11 +64,13 @@ p {
     background-size: cover;
 }
 
+/*shows where Search Engine Optimization and Social Media Marketing is oriented on the page*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*shows where Online Reputation Management is oriented on the page*/
 .float-right {
     float: right;
     margin-left: 25px;
