@@ -55,7 +55,6 @@ p {
     font-size: 16px;
 }
 
-/*format for the three sections under the header*/
 .hero {
     height: 800px;
     width: 100%;
@@ -76,12 +75,14 @@ p {
     margin-left: 25px;
 }
 
+/*formatting for the three sections under the header*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*formatting for the side information*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -93,54 +94,64 @@ p {
     background-color: #2589bd;
 }
 
+/*formatting for Lead Generation section*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/*formatting for Brand Awareness section*/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/*formatting for Cost Management section*/
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/*formatting for header of Lead Generation*/
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*formatting for header of Brand Awareness*/
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*formatting for header of Cost Management*/
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*formatting Lead Generation image*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*formatting Brand Awareness image*/
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*formatting Cost Management*/
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*formatting for search engine optimization section*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -150,6 +161,7 @@ p {
     color: #ffffff;
 }
 
+/*formatting for online reputation management*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -159,6 +171,7 @@ p {
     color: #ffffff;
 }
 
+/*formatting for social media marketing*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -168,33 +181,40 @@ p {
     color: #ffffff;
 }
 
+/*formatting for search engine optimization image*/
 .search-engine-optimization img {
     max-height: 200px;
 }
 
+/*formatting for online reputation image*/
 .online-reputation-management img {
     max-height: 200px;
 }
 
+/*formatting for social media marketing image*/
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/*formatting for Search enging optimization header*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/*formatting for online reputation management header*/
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/*formatting for social media marketing header*/
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/*formatting for the footer section*/
 .footer {
     padding: 30px;
     clear: both;
@@ -202,6 +222,7 @@ p {
     text-align: center;
 }
 
+/*formatting for the "Made with love by..." sentence*/
 .footer h2 {
     font-size: 20px;
 }
